@@ -1,4 +1,4 @@
-# eshop
+# e-shop
 E-shop is a MERN stack based E-commerce web application
 
 Demo URL:
